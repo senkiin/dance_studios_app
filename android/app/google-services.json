@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720581941877",
+    "project_id": "dancestudiosapp",
+    "storage_bucket": "dancestudiosapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720581941877:android:2049b15c5d0838d105b63c",
+        "android_client_info": {
+          "package_name": "com.example.dance_studios_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuvDqSrW0CgSid5CiHuc5cdTM6iZMljM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
